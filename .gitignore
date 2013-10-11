@@ -14,8 +14,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
-/.idea
-/.idea/*
+.idea
 ############### added by git inital
 *.rbc
 *.sassc
